@@ -4,9 +4,9 @@ const os = require('os');
 
 // SSH 连接配置
 const sshConfig = {
-    host: '207.188.7.73',
-    username: 'root',
-    password: 'solana@12345',
+    host: '207.188.0.0',
+    username: '用户名',
+    password: '你的密码',
     tryKeyboard: true,
     algorithms: {
         kex: [
