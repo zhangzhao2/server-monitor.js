@@ -1,0 +1,5 @@
+echo "node_modules/
+performance_log.txt
+stats.json
+.env
+*.log" > .gitignore
